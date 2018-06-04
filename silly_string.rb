@@ -45,9 +45,9 @@ puts "There are now #{new_letter_count} in #{bigger_word}"
 
 proper_sentence = "i really like programming." # Put a . after the string to capitalize it properly.
 
-"i really like programming".capitalize
+"i really like programming.".capitalize
 
-puts "I really like programming"
+puts "I really like programming."
 
 # Challenge 7: String Switcheroo
 sentence = "Astounding aardvarks, arguably an ancient animal, always ate apples and acorns and artichokes all around Athens, amazing!"

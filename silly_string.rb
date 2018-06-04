@@ -26,6 +26,8 @@ puts "im not shouting"
 
 big_word = "supercalifragilisticexpialidocious"
 
+"supercalifragilisticexpialidocious".length
+
 letter_count = big_word # Put a . after big_word and use a String method.
 
 puts "There are #{letter_count} in #{big_word}"
